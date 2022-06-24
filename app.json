@@ -1,8 +1,8 @@
 {
-  "name": "Zim Bot Inc",
-  "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/MRnimaofc2/tuna-bot",
-  "logo": "https://i.imgur.com/rANDwCP.jpeg",
+  "name": "KING-BOT-MD V1",
+  "description": "whatsapp md bot build with NODE.js",
+  "repository": "https://github.com/KING-BOT-OFFICIAL/KING-BOT-MD",
+  "logo": "https://telegra.ph/file/24b9b8507613125d34bd1.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
@@ -10,9 +10,6 @@
     },
     {
       "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
-    },
-    {
-      "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick"
     },
     {
       "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
